@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5_ProfileManager</string>
+    <string name="dataBtn">GO TO DATA PAGE</string>
+    <string name="input_txt">Enter some text here</string>
+    <string name="submit">SUBMIT</string>
+    <string name="avatar">avatar\n</string>
+    <string name="postalCodeTxt">Please enter a postal code</string>
+</resources>
